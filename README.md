@@ -19,10 +19,10 @@ Our last page is going to calculate the macro calories.
 
 ### Group Members 
 
-*Consuelo Huerta
-*Jimmy Tran
-*Andrzej Czopek
-*Matthew Flavin
+* Consuelo Huerta
+* Jimmy Tran
+* Andrzej Czopek
+* Matthew Flavin
 
 ## Timeline 
 
@@ -31,11 +31,7 @@ Our last page is going to calculate the macro calories.
 3.	April 23: Group will have to complete the development of the pages that were assigned. We will have to be able to join all pages together as well as test the application.
 4.	April 25: All team members will work on the presentation that is due on Friday.
 
-
-
-###Breaking the Work 
-
-Breaking Down The Work
+###Breaking Down The Work
 *	Each person is going to be working on a page 
 *	Consuelo: Calorie Counter page, work on Documentation 
 *	Andy: Workout Routine
